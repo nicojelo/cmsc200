@@ -1,0 +1,26 @@
+<annotation>
+	<folder>My Photos</folder>
+	<filename>20170204_214736.jpg</filename>
+	<path>C:\Users\Nico Angelo\Desktop\thesis\dataset\self-acquired\My Photos\20170204_214736.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>facewithglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1233</xmin>
+			<ymin>1</ymin>
+			<xmax>1827</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+</annotation>

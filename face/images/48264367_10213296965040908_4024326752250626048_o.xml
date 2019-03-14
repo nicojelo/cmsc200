@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Remillee Pamulaklakin FB Photos</folder>
+	<filename>48264367_10213296965040908_4024326752250626048_o.jpg</filename>
+	<path>C:\Users\Nico Angelo\Desktop\thesis\dataset\self-acquired\Remillee Pamulaklakin FB Photos\48264367_10213296965040908_4024326752250626048_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>811</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>facewithglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>254</ymin>
+			<xmax>285</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>facewithglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>785</xmin>
+			<ymin>241</ymin>
+			<xmax>943</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

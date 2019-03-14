@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Trixia Belleza's FB photos</folder>
+	<filename>26024258_1743277262351759_1760941366061538914_o.jpg</filename>
+	<path>C:\Users\Nico Angelo\Desktop\thesis\dataset\self-acquired\Trixia Belleza's FB photos\26024258_1743277262351759_1760941366061538914_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>facewithglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>751</xmin>
+			<ymin>640</ymin>
+			<xmax>1036</xmax>
+			<ymax>905</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>facewithglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1646</xmin>
+			<ymin>735</ymin>
+			<xmax>1821</xmax>
+			<ymax>910</ymax>
+		</bndbox>
+	</object>
+</annotation>

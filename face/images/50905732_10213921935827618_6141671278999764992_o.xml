@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Neri Mercado Photos</folder>
+	<filename>50905732_10213921935827618_6141671278999764992_o.jpg</filename>
+	<path>C:\Users\Nico Angelo\Desktop\thesis\dataset\self-acquired\Neri Mercado Photos\50905732_10213921935827618_6141671278999764992_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>facewithglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>582</ymin>
+			<xmax>547</xmax>
+			<ymax>885</ymax>
+		</bndbox>
+	</object>
+</annotation>

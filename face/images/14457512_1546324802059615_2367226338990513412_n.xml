@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Trizia Leal Photos</folder>
+	<filename>14457512_1546324802059615_2367226338990513412_n.jpg</filename>
+	<path>C:\Users\Nico Angelo\Desktop\thesis\dataset\self-acquired\Trizia Leal Photos\14457512_1546324802059615_2367226338990513412_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>facewithglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>173</ymin>
+			<xmax>624</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>facewithglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>4</ymin>
+			<xmax>402</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

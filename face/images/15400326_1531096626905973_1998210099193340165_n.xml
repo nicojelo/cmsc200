@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Colyn Brizuela Photos</folder>
+	<filename>15400326_1531096626905973_1998210099193340165_n.jpg</filename>
+	<path>C:\Users\Nico Angelo\Desktop\thesis\dataset\self-acquired\Colyn Brizuela Photos\15400326_1531096626905973_1998210099193340165_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>facewithglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>58</ymin>
+			<xmax>818</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

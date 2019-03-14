@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original images</folder>
+	<filename>MohH_01942_m_18_i_nf_nc_hp_2016_1_e0_nl_o.jpg</filename>
+	<path>C:\Users\Nico Angelo\Desktop\thesis\dataset\sof\original images\MohH_01942_m_18_i_nf_nc_hp_2016_1_e0_nl_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>facewithglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>90</ymin>
+			<xmax>420</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

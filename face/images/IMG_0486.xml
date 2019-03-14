@@ -1,0 +1,38 @@
+<annotation>
+	<folder>My Photos</folder>
+	<filename>IMG_0486.JPG</filename>
+	<path>C:\Users\Nico Angelo\Desktop\thesis\dataset\self-acquired\My Photos\IMG_0486.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>facewithglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>919</ymin>
+			<xmax>953</xmax>
+			<ymax>1219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>facewithglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2653</xmin>
+			<ymin>1019</ymin>
+			<xmax>2953</xmax>
+			<ymax>1319</ymax>
+		</bndbox>
+	</object>
+</annotation>

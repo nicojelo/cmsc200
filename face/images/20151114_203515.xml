@@ -1,0 +1,26 @@
+<annotation>
+	<folder>My Photos</folder>
+	<filename>20151114_203515.jpg</filename>
+	<path>C:\Users\Nico Angelo\Desktop\thesis\dataset\self-acquired\My Photos\20151114_203515.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>facewithglasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>680</ymin>
+			<xmax>1144</xmax>
+			<ymax>1146</ymax>
+		</bndbox>
+	</object>
+</annotation>
